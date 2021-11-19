@@ -1,0 +1,10 @@
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\bin\Debug\P3LogoStore.exe.config
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\bin\Debug\P3LogoStore.exe
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\bin\Debug\P3LogoStore.pdb
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\obj\Debug\P3LogoStore.csprojAssemblyReference.cache
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\obj\Debug\P3LogoStore.Form1.resources
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\obj\Debug\P3LogoStore.Properties.Resources.resources
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\obj\Debug\P3LogoStore.csproj.GenerateResource.cache
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\obj\Debug\P3LogoStore.csproj.CoreCompileInputs.cache
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\obj\Debug\P3LogoStore.exe
+C:\Users\qdye2\source\repos\StudentClassDemo5\P3LogoStore\P3LogoStore\obj\Debug\P3LogoStore.pdb
