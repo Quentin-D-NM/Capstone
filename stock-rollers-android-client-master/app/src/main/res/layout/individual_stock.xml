@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="@color/background">
+
+  <ProgressBar
+    android:id="@+id/waiting_stock"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintBottom_toBottomOf="parent"
+    android:indeterminateDrawable="@drawable/progress"
+    android:visibility="visible"/>
+
+  <TextView
+    android:id="@+id/company_name"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_weight=".20"
+    android:textSize="35dp"
+    android:textStyle="bold"
+    android:textColor="@color/colorPrimaryDark"
+    />
+
+  <TextView
+    android:id="@+id/stock_name"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/company_name"
+    android:textSize="22dp"
+    android:textStyle="italic"
+    android:textColor="@color/company"/>
+
+  <com.google.android.material.floatingactionbutton.FloatingActionButton
+    android:id="@+id/add"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintBottom_toBottomOf="parent"
+    android:backgroundTint="@color/colorPrimary"
+    android:src="@drawable/ic_add"/>
+
+  <TextView
+    android:id="@+id/stock_price"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintTop_toBottomOf="@id/stock_name"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    android:paddingEnd="5dp"
+    android:textSize="30dp"
+    android:textColor="@color/price"
+    android:paddingTop="8dp"
+    />
+
+
+  <TextView
+    android:id="@+id/year_high"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintTop_toBottomOf="@id/stock_price"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    android:textSize="30dp"
+    android:paddingTop="8dp"
+    android:textStyle="bold"
+    />
+
+  <TextView
+    android:id="@+id/year_low"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintTop_toBottomOf="@id/year_high"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    android:textSize="30dp"
+    android:paddingTop="8dp"
+    android:textStyle="bold"
+    />
+
+  <ImageView
+    android:id="@+id/graph_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    android:src="@drawable/graph"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

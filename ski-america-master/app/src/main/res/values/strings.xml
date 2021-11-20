@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Ski America</string>
+  <string name="title_activity_ski_america">SkiAmericaActivity</string>
+  <string name="title_home">Home</string>
+  <string name="title_settings">Settings</string>
+  <string name="title_search">Search</string>
+  <string name="title_activity_main">Ski America</string>
+  <string name="login_failure_message">Unable to Login In with provided credentials.</string>
+  <string name="sign_out">Sign out</string>
+  <string name="ski_resort_name">Ski Resort Name</string>
+  <string name="ski_resort_address">Ski Resort Address</string>
+  <string name="dummy_address">1600 Amphitheatre Parkway, Mountain View, CA</string>
+  <string name="high">High</string>
+  <string name="low">Low</string>
+  <string name="chance_of_snow">Chance of Snow</string>
+  <string name="total_snow_fall_in_cm">Total Snow Fall in CM</string>
+</resources>

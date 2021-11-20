@@ -1,0 +1,15 @@
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\bin\Debug\net5.0\P5DepricationCalc.Data.deps.json
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\bin\Debug\net5.0\P5DepricationCalc.Data.runtimeconfig.json
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\bin\Debug\net5.0\P5DepricationCalc.Data.runtimeconfig.dev.json
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\bin\Debug\net5.0\P5DepricationCalc.Data.dll
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\bin\Debug\net5.0\ref\P5DepricationCalc.Data.dll
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\bin\Debug\net5.0\P5DepricationCalc.Data.pdb
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\obj\Debug\net5.0\P5DepricationCalc.Data.csproj.AssemblyReference.cache
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\obj\Debug\net5.0\P5DepricationCalc.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\obj\Debug\net5.0\P5DepricationCalc.Data.AssemblyInfoInputs.cache
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\obj\Debug\net5.0\P5DepricationCalc.Data.AssemblyInfo.cs
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\obj\Debug\net5.0\P5DepricationCalc.Data.csproj.CoreCompileInputs.cache
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\obj\Debug\net5.0\P5DepricationCalc.Data.dll
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\obj\Debug\net5.0\ref\P5DepricationCalc.Data.dll
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\obj\Debug\net5.0\P5DepricationCalc.Data.pdb
+C:\Users\qdye2\Desktop\Fall2021Books\C#2\VisualStudiosProjects\P5DepricationCalc\P5DepricationCalc.Data\obj\Debug\net5.0\P5DepricationCalc.Data.genruntimeconfig.cache
